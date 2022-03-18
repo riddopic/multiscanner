@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.15
 MAINTAINER Patrick Copeland ptcnop
 
 ENV YARA_VERSION 3.8.1
