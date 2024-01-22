@@ -36,3 +36,4 @@ celery
 flask_cors
 #Required by utils
 tqdm
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
