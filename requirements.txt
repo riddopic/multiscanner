@@ -36,3 +36,4 @@ celery
 flask_cors
 #Required by utils
 tqdm
+dnspython>=2.6.1 # not directly required, pinned by Snyk to avoid a vulnerability
